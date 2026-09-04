@@ -21,6 +21,10 @@ VB.NET WinForms app that converts amounts via the webservicex.net CurrencyConver
 
 Open `CurrencyConvertor/CurrencyConvertor.sln` in Visual Studio.
 
+## Requirements
+
+- Visual Studio 2005
+
 ## Attribution and provenance
 
 - No third-party source-code attribution markers were identified in assembly/package metadata.
